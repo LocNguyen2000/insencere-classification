@@ -5,4 +5,4 @@ Kaggle Competition &amp; Machine Learning Final Report.
 - Kaggle Competition: https://www.kaggle.com/c/quora-insincere-questions-classification
 
 - Requirement: 
-`NLTK`
+`NLTK` - `sklearn` - `numpy` - `pandas` - `seaborn` - `matplotlib`
